@@ -1,2 +1,2 @@
-# pyspark-data-mining
-A collection of data mining tasks done using PySpark
+# Data Mining with PySpark
+A collection of data mining tasks done using **PySpark**.  
